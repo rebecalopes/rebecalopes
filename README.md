@@ -7,8 +7,8 @@ Esse repositório é apenas para fins didáticos da faculdade e alguns cursos n�
 
 ### Você pode me encontrar nesses endereços
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-lopes/)](link_do_seu_perfil_no_linkedin)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rebeca.lopes.141@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-lopes/)](https://www.linkedin.com/in/rebeca-lopes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeca.lopes.141@gmail.com)](mailto:rebeca.lopes.141@gmail.com)
  
 
 
