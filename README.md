@@ -1,4 +1,16 @@
-### Hi there 👋
+# Bem vinde! 👋
+<img align="right" width="400" height="400" src="https://c.tenor.com/xPA2rCeWb7wAAAAC/baby-hello.gif">
+
+Sou desenvolvedora Java e universitária, gosto de estudar sobre arquitetura, cloud e ética computacional, participar de eventos de tecnologia e assistir competições culinárias.
+
+Esse repositório é apenas para fins didáticos da faculdade e alguns cursos não terminados, a maior parte dos meus códigos estão no repositório da empresa que trabalho :)
+
+### Você pode me encontrar nesses endereços
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-lopes/)](link_do_seu_perfil_no_linkedin)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rebeca.lopes.141@gmail.com)
+ 
+
 
 <!--
 **rebecalopes/rebecalopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
