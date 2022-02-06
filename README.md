@@ -1,9 +1,9 @@
 # Bem vinde! 👋
-<img align="right" width="400" height="400" src="https://c.tenor.com/xPA2rCeWb7wAAAAC/baby-hello.gif">
+<img align="right" width="400" height="400" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-Sou desenvolvedora Java e universitária, gosto de estudar sobre arquitetura, cloud e ética computacional, participar de eventos de tecnologia e assistir competições culinárias.
+Sou desenvolvedora Java e universitária, gosto de estudar sobre arquitetura e cloud, participar de eventos de tecnologia e assistir competições culinárias.
 
-Esse repositório é apenas para fins didáticos da faculdade e alguns cursos não terminados, a maior parte dos meus códigos estão no repositório da empresa que trabalho :)
+Esse repositório é apenas para fins didáticos da faculdade e alguns cursos não terminados, sempre tentando atualizar aqui mas a maior parte dos meus códigos estão no repositório da empresa que trabalho :)
 
 ### Você pode me encontrar nesses endereços
 
